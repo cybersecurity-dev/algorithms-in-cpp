@@ -9,6 +9,6 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-| Algorithm | Implementation |
+| Algorithm | C++ Implementation |
 |------|------|
 |[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)|
