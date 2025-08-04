@@ -1,5 +1,11 @@
+
 # [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in C++
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
+
+<p align="center">
+  <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/algorithms.jpeg" />
+</p>
+
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
