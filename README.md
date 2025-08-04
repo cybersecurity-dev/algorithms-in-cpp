@@ -33,6 +33,6 @@
 
 ---
 
-| Algorithm | C++ Implementation |
-|------|------|
-|[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)|
+| Algorithm | C++ Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
+|----|:----:|:----:|:----:|:----:|:----:|
+|[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)| O(n) | O(n^2) | O(n^2) | O(1) |
