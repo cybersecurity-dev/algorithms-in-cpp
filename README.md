@@ -9,6 +9,15 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## Sorting Algorithms
+* [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+* [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
+* [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+* [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+
+## 
+
 | Algorithm | C++ Implementation |
 |------|------|
 |[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)|
