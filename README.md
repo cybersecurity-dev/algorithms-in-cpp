@@ -1,4 +1,4 @@
-# Algorithms in C++
+# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in C++
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -10,6 +10,7 @@
 </p>
 
 ## Searching & Sorting Algorithms
+
 * **Searching Algorithms**
     * [Binary Search](https://en.wikipedia.org/wiki/Binary_search)
     * [Boyer–Moore string-search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
@@ -20,7 +21,11 @@
     * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
     * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
     * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-## 
+## Shortest Path Algorithms 
+* [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+---
 
 | Algorithm | C++ Implementation |
 |------|------|
