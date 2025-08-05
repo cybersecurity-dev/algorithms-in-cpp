@@ -1,5 +1,5 @@
 
-# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in C++
+# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 
 <p align="center">
