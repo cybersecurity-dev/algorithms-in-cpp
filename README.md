@@ -48,4 +48,4 @@
 
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/algorithms-in-cpp/graphs/contributors)!
 
-[🔼 Back to top](#algorithms-in-cpp)
+[🔼 Back to top](#algorithms-in-c)
