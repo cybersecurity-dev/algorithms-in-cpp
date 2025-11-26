@@ -1,11 +1,15 @@
+<div align="center">
+    <p align="center">
+        <a href="https://cppreference.com/">
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Cpp_logo.svg" />
+        </a>
+    </p>
 
 # [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
+</div>
 
-<p align="center">
-  <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/algorithms.jpeg" />
-</p>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -17,9 +21,11 @@
 </p>
 
 ## 📖 Contents
-- [My Other Awesome Lists](#my-other-awesome-lists)
+- [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+<p align="center"> <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/algorithms.jpeg" /> </p>
 
 ## Searching & Sorting Algorithms
 
