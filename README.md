@@ -1,11 +1,11 @@
 <div align="center">
     <p align="center">
-        <a href="https://cppreference.com/">
+        <a href="https://github.com/cybersecurity-dev/awesome-cpp-programming-language">
           <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Cpp_logo.svg" />
         </a>
     </p>
 
-# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/)
+# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
