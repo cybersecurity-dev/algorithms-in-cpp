@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/)
+# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [C++](https://www.reddit.com/r/cpp/new)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -14,12 +14,60 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((Algorithms))
+
+    Beginner
+      Big O
+      Arrays
+      Strings
+      Linked Lists
+      Stacks
+      Queues
+      Sorting
+      Searching
+
+    Intermediate
+      Trees
+      Heaps
+      Hashing
+      Recursion
+      Divide and Conquer
+      Binary Search Trees
+      Graph Basics
+
+    Advanced
+      Dynamic Programming
+      Greedy
+      Graph Algorithms
+      Shortest Path
+      MST
+      Backtracking
+      String Matching
+
+    Expert
+      Computational Geometry
+      Network Flow
+      Approximation Algorithms
+      Randomized Algorithms
+      Parallel Algorithms
+      Distributed Algorithms
+
+    Research
+      Machine Learning
+      Reinforcement Learning
+      Quantum Algorithms
+      Cryptographic Algorithms
+      Bioinformatics Algorithms
+```
+   
 ## 📖 Contents
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
